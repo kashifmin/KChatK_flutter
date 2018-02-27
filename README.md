@@ -1,8 +1,4 @@
 # myapp
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+This is my first Flutter app.
+- It is based on the following codelab: https://codelabs.developers.google.com/codelabs/flutter/
